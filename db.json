@@ -117,30 +117,61 @@
           }
         },
         {
-            "title": "4 stroks",
-            "label": "four strocks with 6 cylenders",
-            "value": {
-              "model": "https://sketchfab.com/models/6e89ff0b3f6d44a7a0e7161bbb711ae3/embed?autostart=1&amp;camera=0"
-            }
-          },{
-            "title": "2 stroks",
-            "label": "Spark Ingition Engine",
-            "value": {
-              "model": "https://sketchfab.com/models/c16baffe70284968b06a42f02154f9b2/embed?autostart=1&amp;camera=0"
-            }
-          },{
-            "title": "S.I.E",
-            "label": "Spark Ingition Engine",
-            "value": {
-              "model": "https://sketchfab.com/models/6e89ff0b3f6d44a7a0e7161bbb711ae3/embed?autostart=1&amp;camera=0"
-            }
-          },{
-            "title": "S.I.E",
-            "label": "Spark Ingition Engine",
-            "value": {
-              "model": "https://sketchfab.com/models/6e89ff0b3f6d44a7a0e7161bbb711ae3/embed?autostart=1&amp;camera=0"
-            }
-          },
+          "title": "4 stroks",
+          "label": "four strocks with 6 cylenders",
+          "value": {
+            "model": "https://sketchfab.com/models/6e89ff0b3f6d44a7a0e7161bbb711ae3/embed?autostart=1&amp;camera=0"
+          }
+        },
+        {
+          "title": "2 stroks",
+          "label": "Spark Ingition Engine",
+          "value": {
+            "model": "https://sketchfab.com/models/c16baffe70284968b06a42f02154f9b2/embed?autostart=1&amp;camera=0"
+          }
+        },
+        {
+          "title": "C.I.E",
+          "label": "Disel Engine",
+          "value": {
+            "model": "https://sketchfab.com/models/b2aa5d79e3984d1b9707943606a64c26/embed?autostart=1&amp;camera=0"
+          }
+        },
+        {
+          "title": "S.I.E",
+          "label": "Disassembled engine",
+          "value": {
+            "model": "https://sketchfab.com/models/d1b041698f534bc1944fe5632b95e6fa/embed?autostart=1&amp;camera=0"
+          }
+        },
+        {
+          "title": "S.I.E",
+          "label": "Twin Steam Engine",
+          "value": {
+            "model": "https://sketchfab.com/models/146d9e79c8d94a74852f29d05235db33/embed?autostart=1&amp;camera=0"
+          }
+        },
+        {
+          "title": "Spark Plug ",
+          "label": "Spark Plug dissempling",
+          "value": {
+            "model": "https://sketchfab.com/models/d1b041698f534bc1944fe5632b95e6fa/embed?autostart=1&amp;camera=0"
+          }
+        },
+        {
+          "title": "stirling engine",
+          "label": "stirling engine",
+          "value": {
+            "model": "https://sketchfab.com/models/09807ea0dccc422bb579b753b9f03fca/embed?autostart=1&amp;camera=0"
+          }
+        },
+        {
+          "title": "stirling animated",
+          "label": "Disassembled engine",
+          "value": {
+            "model": "https://sketchfab.com/models/8aefdde136394604a8cf707605b09b8f/embed?autostart=1&amp;camera=0"
+          }
+        }
       ]
     },
     {
